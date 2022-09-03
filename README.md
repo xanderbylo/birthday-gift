@@ -16,3 +16,4 @@ A birthday GIFt site built as part of the learn HTML and CSS course on [Scrimba]
 ## :bulb: Things I learnt
 
 * How to publish repositories using GitHub Desktop
+* How to create linear gradients in CSS
